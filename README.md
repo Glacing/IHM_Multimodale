@@ -15,3 +15,6 @@ Une fois lancé, vous pouvez désormais effectuer différentes actions telles qu
 * Les supprimer
 
 Voici une courte vidéo montrant des exemples d'utilisation
+https://youtu.be/ZJyPql4RYA8
+
+Vous est montré des exemples d'utilisation du moteur, expliquant notamment quand cliquer et quand prononcer différentes phrases
